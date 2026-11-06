@@ -1,0 +1,10 @@
+{
+  "label": "Gminy",
+  "packageName": "pl.gminy.karoo",
+  "latestApkUrl": "https://raw.githubusercontent.com/karqlpl/karoo-gminy-apk/main/gminy.apk",
+  "latestVersion": "0.1.4",
+  "latestVersionCode": 4,
+  "developer": "karqlpl",
+  "description": "Granice gmin na mapie i zaliczanie gmin.",
+  "tags": ["maps"]
+}
